@@ -1,0 +1,21 @@
+body {
+    background-image: url(../imgs/moon-light-night-sky-scenery-art-uhdpaper.com-hd-4.3238.jpg);
+    /* background-size: cover; */
+}
+
+
+button {
+    padding: 25px 70px;
+    margin-block: 30px;
+    background-color: rebeccapurple;
+    font-size: 25px;
+    border: none;
+    border-radius: 0px 25px 0px 25px;
+    transition: 0.5s ease-in-out;
+    color: rgba(0, 0, 0, 0.349);
+}
+
+button:hover {
+    background-color: blueviolet;
+    color: black;
+}
